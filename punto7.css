@@ -1,0 +1,42 @@
+
+
+.box{
+    padding-left: 150px;
+    font-size: 24px;
+    color: white;
+    list-style: none;
+     font-weight: bold;
+     display: inline-flex;
+     
+     
+     width: 60%;
+     height: 20px;
+
+}
+
+.caja{
+    border: 35px solid rgba(182, 79, 233, 0.825);
+    display: inline-flex;
+    margin: 12px;
+   align-items: center;
+   justify-content: center;
+   
+}
+
+button {
+   background-color: rgb(21, 21, 211);
+   color: azure;
+   display: inline-flex;
+  
+   align-items: center;
+   justify-content: center;
+   width: 25%;
+   height: 35px;
+   transition: background-color 0.5s ease;
+   margin: 12px;
+   
+ }
+      
+      button:hover {
+        background-color: red;
+      }

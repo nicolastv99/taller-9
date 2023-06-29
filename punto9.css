@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(2, 14, 14);
+  font-size: 27px;
+}
+table, td {
+  border:1px solid rgba(6, 6, 6, 0.936);
+}
+table, td, th, tr {
+  background-color:rgba(247, 255, 6, 0.936); ;
+}
+td {
+  border: 1px dashed black;
+  
+}
+th {
+  color: rgb(239, 0, 0);
+  font-size: 17px;
+}
